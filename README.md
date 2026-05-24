@@ -115,7 +115,7 @@ filename.exe
 Electronics & Communications Engineering — Year 3  
 October 6 University, Egypt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/omar-awad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/omar-eldomyaty/)
 
 ---
 
