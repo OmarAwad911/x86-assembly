@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Assembly-x86-red?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Platform-DOS%2FEMU8086-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Course-Microprocessor%20Lab-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Course-Microprocessor%20-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/University-October%206%20University-orange?style=for-the-badge"/>
 
 # 🖥️ x86 Assembly — Microprocessor Lab
