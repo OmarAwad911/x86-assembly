@@ -115,15 +115,6 @@ filename.exe
 Electronics & Communications Engineering — Year 3  
 October 6 University, Egypt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/omar-eldomyaty/)
-
----
-
-## 📄 License
-
-This repository is for **educational purposes**.  
-Feel free to study, reference, or build on these examples.
-
 ---
 
 <div align="center">
